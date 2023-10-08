@@ -12,7 +12,7 @@ async function moveNPC(){
         await npc.walkSouth(300)
         await npc.walkEast(1500)
         await npc.walkSouth(1500)
-        await npc.walkWest(2700)
+        await npc.walkWest(2750)
         await npc.walkNorth(400)
         await npc.stop()
     }
